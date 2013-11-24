@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FlightQuestChallenge", "FlightQuestChallenge.vcxproj", "{BCCBEAC7-5A6D-41B8-9C9A-7F845372C065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCCBEAC7-5A6D-41B8-9C9A-7F845372C065}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BCCBEAC7-5A6D-41B8-9C9A-7F845372C065}.Debug|Win32.Build.0 = Debug|Win32
+		{BCCBEAC7-5A6D-41B8-9C9A-7F845372C065}.Release|Win32.ActiveCfg = Release|Win32
+		{BCCBEAC7-5A6D-41B8-9C9A-7F845372C065}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
